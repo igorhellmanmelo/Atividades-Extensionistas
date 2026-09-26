@@ -1,0 +1,3 @@
+momento,modelo,condição,acurácia,confiança_média
+antes,baseline,iluminacao_fraca,,
+depois,augmentation,iluminacao_fraca,,

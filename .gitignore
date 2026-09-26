@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+projetos/atividade-2-knn/dataset/
+projetos/numeros-redes-neurais/imagens_usuario/
+projetos/jokenpo-cnn/jokenpo_dataset/
+projetos/jokenpo-cnn/dataset_jokenpo/**/*.jpg
+projetos/jokenpo-cnn/dataset_jokenpo/**/*.png
+projetos/jokenpo-cnn/modelos_jokenpo/
+projetos/jokenpo-cnn/resultados_jokenpo/
