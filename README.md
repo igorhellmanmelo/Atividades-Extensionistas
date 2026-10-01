@@ -2,9 +2,14 @@
 
 Este repositório reúne três atividades em notebooks, organizadas como uma entrega parcial para acompanhamento e continuidade. Elas exploram reconhecimento de imagens e aprendizagem de máquina de maneira prática. Os números abaixo são **resultados registrados no material recebido**, não uma nova execução neste repositório.
 
-## Participantes
+## Integrantes do grupo e autoria
 
-As atividades também contaram com a participação de [Raul-Milan](https://github.com/Raul-Milan).
+Os projetos e conteúdos deste repositório foram produzidos em conjunto pelos integrantes do grupo:
+
+- **[Igor](https://github.com/igorhellmanmelo)**
+- **[Raul Milan](https://github.com/Raul-Milan)**
+
+Igor e Raul Milan são coautores dos conteúdos apresentados. O trabalho reúne a contribuição de ambos no desenvolvimento das atividades e na produção dos materiais do grupo.
 
 ## Objetivo das atividades extensionistas
 
