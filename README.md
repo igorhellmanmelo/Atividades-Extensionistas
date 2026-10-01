@@ -2,6 +2,10 @@
 
 Este repositório reúne três atividades em notebooks, organizadas como uma entrega parcial para acompanhamento e continuidade. Elas exploram reconhecimento de imagens e aprendizagem de máquina de maneira prática. Os números abaixo são **resultados registrados no material recebido**, não uma nova execução neste repositório.
 
+## Participantes
+
+As atividades também contaram com a participação de [Raul-Milan](https://github.com/Raul-Milan).
+
 ## Objetivo das atividades extensionistas
 
 A extensão universitária aproxima o conhecimento produzido na faculdade das necessidades e experiências de pessoas fora dela. A proposta destas atividades é transformar exercícios técnicos em oportunidades de diálogo, demonstração e aprendizagem com a comunidade. Em vez de apresentar a inteligência artificial como uma solução pronta, os projetos podem servir para explicar, com exemplos simples, como um sistema aprende a partir de dados, por que comete erros e quais cuidados são necessários antes de usá-lo em situações reais.
